@@ -441,112 +441,112 @@ let letraNombre = {
 
   if(apellido === letraApellido.a.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.a.masculino
-    : apellidoFinal = letraApellido.a.femenino
+    ? apellidoFinal = letraApellido.a.femenino
+    : apellidoFinal = letraApellido.a.masculino
   }else if(apellido === letraApellido.b.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.b.masculino
-    : apellidoFinal = letraApellido.b.femenino
+    ? apellidoFinal = letraApellido.b.femenino
+    : apellidoFinal = letraApellido.b.masculino
   }else if(apellido === letraApellido.c.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.c.masculino
-    : apellidoFinal = letraApellido.c.femenino
+    ? apellidoFinal = letraApellido.c.femenino
+    : apellidoFinal = letraApellido.c.masculino
   }else if(apellido === letraApellido.d.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.d.masculino
-    : apellidoFinal = letraApellido.d.femenino
+    ? apellidoFinal = letraApellido.d.femenino
+    : apellidoFinal = letraApellido.d.masculino
   }else if(apellido === letraApellido.e.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.e.masculino
-    : apellidoFinal = letraApellido.e.femenino
+    ? apellidoFinal = letraApellido.e.femenino
+    : apellidoFinal = letraApellido.e.masculino
   }else if(apellido === letraApellido.f.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.f.masculino
-    : apellidoFinal = letraApellido.f.femenino
+    ? apellidoFinal = letraApellido.f.femenino
+    : apellidoFinal = letraApellido.f.masculino
   }else if(apellido === letraApellido.g.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.g.masculino
-    : apellidoFinal = letraApellido.g.femenino
+    ? apellidoFinal = letraApellido.g.femenino
+    : apellidoFinal = letraApellido.g.masculino
   }else if(apellido === letraApellido.h.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.h.masculino
-    : apellidoFinal = letraApellido.h.femenino
+    ? apellidoFinal = letraApellido.h.femenino
+    : apellidoFinal = letraApellido.h.masculino
   }else if(apellido === letraApellido.i.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.i.masculino
-    : apellidoFinal = letraApellido.i.femenino
+    ? apellidoFinal = letraApellido.i.femenino
+    : apellidoFinal = letraApellido.i.masculinoo
   }else if(apellido === letraApellido.j.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.j.masculino
-    : apellidoFinal = letraApellido.j.femenino
+    ? apellidoFinal = letraApellido.j.femenino
+    : apellidoFinal = letraApellido.j.masculino
   }else if(apellido === letraApellido.k.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.k.masculino
-    : apellidoFinal = letraApellido.k.femenino
+    ? apellidoFinal = letraApellido.k.femenino
+    : apellidoFinal = letraApellido.k.masculino
   }else if(apellido === letraApellido.l.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.l.masculino
-    : apellidoFinal = letraApellido.l.femenino
+    ? apellidoFinal = letraApellido.l.femenino
+    : apellidoFinal = letraApellido.l.masculino
   }else if(apellido === letraApellido.m.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.m.masculino
-    : apellidoFinal = letraApellido.m.femenino
+    ? apellidoFinal = letraApellido.m.femenino
+    : apellidoFinal = letraApellido.m.masculino
   }else if(apellido === letraApellido.n.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.n.masculino
-    : apellidoFinal = letraApellido.n.femenino
+    ? apellidoFinal = letraApellido.n.femenino
+    : apellidoFinal = letraApellido.n.masculino
   }else if(apellido === letraApellido.ñ.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.ñ.masculino
-    : apellidoFinal = letraApellido.ñ.femenino
+    ? apellidoFinal = letraApellido.ñ.femenino
+    : apellidoFinal = letraApellido.ñ.masculino
   }else if(apellido === letraApellido.o.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.o.masculino
-    : apellidoFinal = letraApellido.o.femenino
+    ? apellidoFinal = letraApellido.o.femenino
+    : apellidoFinal = letraApellido.o.masculino
   }else if(apellido === letraApellido.p.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.p.masculino
-    : apellidoFinal = letraApellido.p.femenino
+    ? apellidoFinal = letraApellido.p.femenino
+    : apellidoFinal = letraApellido.p.masculino
   }else if(apellido === letraApellido.q.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.q.masculino
-    : apellidoFinal = letraApellido.q.femenino
+    ? apellidoFinal = letraApellido.q.femenino
+    : apellidoFinal = letraApellido.q.masculino
   }else if(apellido === letraApellido.r.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.r.masculino
-    : apellidoFinal = letraApellido.r.femenino
+    ? apellidoFinal = letraApellido.r.femenino
+    : apellidoFinal = letraApellido.r.masculino
   }else if(apellido === letraApellido.s.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.s.masculino
-    : apellidoFinal = letraApellido.s.femenino
+    ? apellidoFinal = letraApellido.s.femenino
+    : apellidoFinal = letraApellido.s.masculino
   }else if(apellido === letraApellido.t.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.t.masculino
-    : apellidoFinal = letraApellido.t.femenino
+    ? apellidoFinal = letraApellido.t.femenino
+    : apellidoFinal = letraApellido.t.masculino
   }else if(apellido === letraApellido.u.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.u.masculino
-    : apellidoFinal = letraApellido.u.femenino
+    ? apellidoFinal = letraApellido.u.femenino
+    : apellidoFinal = letraApellido.u.masculino
   }else if(apellido === letraApellido.v.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.v.masculino
-    : apellidoFinal = letraApellido.v.femenino
+    ? apellidoFinal = letraApellido.v.femenino
+    : apellidoFinal = letraApellido.v.masculino
   }else if(apellido === letraApellido.w.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.w.masculino
-    : apellidoFinal = letraApellido.w.femenino
+    ? apellidoFinal = letraApellido.w.femenino
+    : apellidoFinal = letraApellido.w.masculino
   }else if(apellido === letraApellido.x.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.x.masculino
-    : apellidoFinal = letraApellido.x.femenino
+    ? apellidoFinal = letraApellido.x.femenino
+    : apellidoFinal = letraApellido.x.masculino
   }else if(apellido === letraApellido.y.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.y.masculino
-    : apellidoFinal = letraApellido.y.femenino
+    ? apellidoFinal = letraApellido.y.femenino
+    : apellidoFinal = letraApellido.y.masculino
   }else if(apellido === letraApellido.z.letra){
     sexo === "F"
-    ? apellidoFinal = letraApellido.z.masculino
-    : apellidoFinal = letraApellido.z.femenino
+    ? apellidoFinal = letraApellido.z.femenino
+    : apellidoFinal = letraApellido.z.masculino
   }
 
 let nacimientoFinal = 0 
