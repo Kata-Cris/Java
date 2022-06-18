@@ -7,3 +7,4 @@ console.log(num3)
 function sumaFuncion(arg1, arg2){
     return arg1 + arg2
 }
+
