@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 5</title>
+</head>
+<body>
+    
+ <script>
+    let numero1 = parseInt(window.prompt("introduce un número")) 
+    let numero2 = parseInt(window.prompt("introduce otro número")) 
+
+    let suma = document.createElement("p")
+    let resta = document.createElement("p")
+    let multi = document.createElement("p")
+    let division = document.createElement("p")
+    let resto = document.createElement("p")
+
+    suma.innerText = `suma: ${numero1+numero2}`
+    suma.style.backgroundColor = "red"
+    suma.style.color = "black"
+
+    resta.innerText = `suma: ${numero1-numero2}`
+    resta.style.backgroundColor = "green"
+    resta.style.color = "orange"
+
+    multi.innerText = `suma: ${numero1*numero2}`
+    multi.style.backgroundColor = "yellow"
+    multi.style.color = "tomato"
+
+    division.innerText = `suma: ${numero1/numero2}`
+    division.style.backgroundColor = "brown"
+    division.style.color = "white"
+
+    resto.innerText = `suma: ${numero1%numero2}`
+    resto.style.backgroundColor = "blue"
+    resto.style.color = "pink"
+
+    document.body.appendChild(suma)
+    document.body.appendChild(resta)
+    document.body.appendChild(multi)
+    document.body.appendChild(division)
+    document.body.appendChild(resto)
+
+ </script>  
+</body>
+</html>

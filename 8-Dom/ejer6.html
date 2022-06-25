@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 6</title>
+</head>
+<body>
+    
+ <script>
+    let opcion = window.prompt(`Qué operación deseas realizar:?
+    A - Suma
+    B - Resta
+    C - Multiplicación
+    D - División
+    E - Resto`).toLocaleUpperCase()
+
+    let num1 = parseInt (window.prompt(`Introduce un número`))
+    let num2 = parseInt (window.prompt(`Introduce otro número`))
+    
+    let respuesta = document.createElement("p")
+
+    switch(opcion){
+        case 1:
+         respuesta.innerText = "La suma es ${num1 + num2}"
+         break
+        case 2: 
+        respuesta.innerText = "La resta es ${num1 - num2}"
+         break
+        case 3:
+        respuesta.innerText = "La multiplicación es ${num1 * num2}"
+         break
+        case 4:
+        respuesta.innerText = "La división es ${num1 / num2}"
+         break
+        case 5: 
+        respuesta.innerText = "El resto es ${num1 % num2}"
+         break
+        default:
+         respuesta.innerText = "La opción elegida no es válida"
+    }
+    
+    document.body.appendChild (respuesta)
+
+
+
+ </script>  
+</body>
+</html>
